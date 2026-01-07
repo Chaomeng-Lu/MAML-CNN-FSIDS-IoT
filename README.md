@@ -1,9 +1,12 @@
 ## A Few-shot Based Model-Agnostic Meta-Learning for Intrusion Detection in Security of Internet of Things
 
+### IoT architecture including our few-shot IDS model.
 <img width="4395" height="1815" alt="Figure 1" src="https://github.com/user-attachments/assets/7cef09d9-ed14-40bc-83eb-9d3743038668" />
 
+### Partial image samples of five processed data sets. (a) CIC-DDoS2019. (b) CIC-IDS2017. (c) CSE-CIC-IDS2018. (d) UNSW-NB15. (e) NSL-KDD
 <img width="2162" height="2183" alt="Figure 3" src="https://github.com/user-attachments/assets/e706a52d-1ac4-4f1d-8064-2eb155e68081" />
 
+###  Structure of few-shot-based MAML for intrusion detection in IoT
 <img width="2723" height="1253" alt="Figure 5" src="https://github.com/user-attachments/assets/6fa3adcb-1bc5-463c-aaca-1bff09a80bf4" />
 
 ### Dataset available:
